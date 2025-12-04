@@ -1,0 +1,15 @@
+venv/
+.venv/
+__pycache__/
+models/
+data/
+*.pth
+*.pt
+*.onnx
+*.bin
+*.h5
+*.mp4
+*.jpg
+*.png
+*.avi
+all-MiniLM-L6-v2/
